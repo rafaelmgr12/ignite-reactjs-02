@@ -2,12 +2,19 @@
   Ignite - Trilha ReactJS
 </h2>
 <p align="center">
-  <a href="https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react">Template da aplicação</a>
+  <a href="https://github.com/rocketseat-education/ignite-template-reactjs-refactoring-classes-ts">Template da aplicação</a>
 </p>
 <p align="center">
-  Desafio: Conceitos do React
+  Desafio: Refactoring de classes e typescript
 </p>
 
+## 💻 Sobre o desafio
+
+Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
+
+Essa será uma aplicação já funcional onde o seu principal objetivo é realizar dois processos de migração: de Javascript para Typescript e de Class Components para Function Components.
+
+A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
 ## 🚀 Como executar
 
 * Clone o repositório
